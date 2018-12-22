@@ -8,6 +8,9 @@
       "ios",
       "android"
     ],
+    "android": {
+      "package": "com.douglas.cronometro_simples_app"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
